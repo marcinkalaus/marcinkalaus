@@ -1,5 +1,7 @@
 ### Welome to my github :v:
 
+![visitors](https://komarev.com/ghpvc/?username=marcinkalaus&color=blue)
+
 [![marcinkalaus github stats](https://github-readme-stats.vercel.app/api?username=marcinkalaus&show_icons=true&theme=dracula)
 
 <!--
