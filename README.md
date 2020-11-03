@@ -1,4 +1,4 @@
-### Welome to my github :v:
+### Welcome to my github :v:
 
 ## About
 <br />
@@ -10,7 +10,7 @@
 <br />
 <br />
 
-[![marcinkalaus github stats](https://github-readme-stats.vercel.app/api?username=marcinkalaus&show_icons=true&theme=dracula)
+![marcinkalaus github stats](https://github-readme-stats.vercel.app/api?username=marcinkalaus&show_icons=true&theme=dracula)
 
 ![visitors](https://komarev.com/ghpvc/?username=marcinkalaus&color=red)
 
