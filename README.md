@@ -1,5 +1,12 @@
 ### Welome to my github :v:
 
+## About
+
+* :man_student: Computer Science and Intelligent Technologies at AGH
+* :computer: Java, Python
+* :volleyball::bicyclist::climbing::weight_lifting_man::mountain:
+
+
 ![visitors](https://komarev.com/ghpvc/?username=marcinkalaus&color=blue)
 
 [![marcinkalaus github stats](https://github-readme-stats.vercel.app/api?username=marcinkalaus&show_icons=true&theme=dracula)
