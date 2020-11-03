@@ -3,8 +3,8 @@
 ## About
 <br />
 
-* :man_student: Computer Science and Intelligent Technologies at AGH
-* :computer: Java, Python
+* :man_student: **Computer Science and Intelligent Systems at AGH**
+* :computer: **Java, Python**
 * :volleyball::bicyclist::climbing::weight_lifting_man::mountain:
 
 <br />
