@@ -1,6 +1,6 @@
 ### Welome to my github :v:
 
-[![marcinkalaus's github stats](https://github-readme-stats.vercel.app/api?username=marcinkalaus)](https://github.com/marcinkalaus/github-readme-stats&&theme=dark)
+[![marcinkalaus's github stats](https://github-readme-stats.vercel.app/api?username=marcinkalaus)](https://github.com/marcinkalaus/github-readme-stats&&theme=dracula)
 
 <!--
 **marcinkalaus/marcinkalaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
