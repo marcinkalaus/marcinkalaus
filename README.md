@@ -4,17 +4,8 @@
 <br />
 
 * :man_student: **Computer Science and Intelligent Systems at AGH**
-* :computer: **Java, Python**
+* :computer: **Java**
 * :volleyball::bicyclist::climbing::weight_lifting_man::mountain:
-
-[GitHub Page](https://marcinkalaus.github.io)  
-[Fork](https://github.com/marcinkalaus/Bringing-Old-Photos-Back-to-Life)
-<br />
-<br />
-
-![marcinkalaus github stats](https://github-readme-stats.vercel.app/api?username=marcinkalaus&show_icons=true&theme=dracula)
-
-![visitors](https://komarev.com/ghpvc/?username=marcinkalaus&color=red)
 
 <!--
 **marcinkalaus/marcinkalaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
